@@ -31,4 +31,4 @@ It covers both **positive** and **negative** test scenarios — including bookin
 
 Run all tests and generate HTML reports:
 ```bash
-newman run postman_collection/restful_booker_collection.json
+newman run Restful-Booker.postman_collection.json
